@@ -1,1 +1,1 @@
-# monorepo-quickstart-ts
+# monorepo-starter-ts
